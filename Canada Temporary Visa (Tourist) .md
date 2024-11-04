@@ -2,10 +2,10 @@ https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/
 
 
 Go to your biometrics. Make sure to take passport, appointment confirmation letter and letter with reference number......
-
+ALWAYS REMEMBER YOUR REFERENCE NUMBER WHICH STARTS WITH CAN and then 9 numbers 
 
 Once approved, you will receive an email requesting for passport. HURRAY !!! 
-But now you need to go through courier service and pay some amount ~ $100 USD for recommended courier service (~$ 72 USD) and money order(~$ 22.5) 
+But now you need to go through courier service and pay some amount around $100 USD for recommended courier service (~$ 72 USD) and money order(~$ 22.5) 
 
 Start from this website and select which website to use (USA or UK or ...) 
 - https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html#vactable 
