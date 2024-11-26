@@ -42,9 +42,9 @@
 
 - Once you receive that letter,  Go to your biometrics location whereever is feasible.
 - You just have to login to your IRCC and follow the prompt provided to selct location and book an appointment
-- Make sure to take passport, appointment confirmation letter and letter with reference number :
+- Make sure to take a letter requesting biometric (you should receive this by email), passport, and appointment confirmation letter and  :
   - ALWAYS REMEMBER YOUR ### REFERENCE NUMBER ### WHICH STARTS WITH CAN and then 9 numbers
-- A heads up that i was not aware up until later is that if you can give biometrics in Manhattan, NY location, you won't have to pay courier service fee later on which is equivalent to around $80 usd.
+- A heads up that i was not aware up until later is that if you can give biometrics in Manhattan, NY location, you won't have to pay package transfer fee of $22.5. 
 - Give your biometrics and then just wait for the decision.
 
 ## GOOD LUCK
