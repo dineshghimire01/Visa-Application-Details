@@ -62,7 +62,10 @@
    - https://visa.vfsglobal.com/usa/en/can/
 - VFS GLOBAL FOR POSTAL SERVICE ONCE YOUR VISA IS APPROVED.
    - https://visa.vfsglobal.com/usa/en/can/passport-submission 
-   - https://www.vfsglobal.ca/PostalAppointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/CQ1P0LBKn66dLdNUfueK+wj/xwjQV05sWPtysuvzK33qrK3eXshT1TAgsu3oVBZovxbG4hegjVxPtRK4ehNyPck+V525rUvI5fmDu7unjO/ 
+   - https://www.vfsglobal.ca/PostalAppointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/CQ1P0LBKn66dLdNUfueK+wj/xwjQV05sWPtysuvzK33qrK3eXshT1TAgsu3oVBZovxbG4hegjVxPtRK4ehNyPck+V525rUvI5fmDu7unjO/
+   - Select center
+   - select application category: Original Passport submission
+   - In your shipping address: Provide your address where you want to recieve your package later on
 - You need several documents to attact with your envelope.
    - Passport
    - Payment fee confirmation ($100 CAD)
