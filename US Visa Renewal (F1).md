@@ -9,3 +9,10 @@
 - Pay fee after making an account in CGI federal
 - US Visa scheduling: https://www.ustraveldocs.com/in/en/
 - Wizard to chat: https://fuse-cgi.telerion.net/widget?n=5dc39e78-f88c-41a7-8b20-efb58df70c0d&a=0000#login 
+
+
+Documents to take:
+- https://international.globallearning.cornell.edu/travel/travel-documents-students
+- Cornell enrollment form request: Go to academics in student center, then request enrollment certificate [https://international.globallearning.cornell.edu/travel/travel-documents-students](https://registrar.cornell.edu/resources/certification-enrollment-and-degree)
+- Print funding documents: appointment letter in workday ( workday, profile, personal, documents)
+- print new i20: request a new one.. https://mystatus.globallearning.cornell.edu/istart/controllers/client/ClientEngine.cfm?serviceid=EFormI20DS2019ReprintRequest0ServiceProvider 
