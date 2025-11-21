@@ -16,4 +16,6 @@ Documents to take:
 - Cornell enrollment form request: Go to academics in student center, then request enrollment certificate [https://international.globallearning.cornell.edu/travel/travel-documents-students](https://registrar.cornell.edu/resources/certification-enrollment-and-degree)
 - Print funding documents: appointment letter in workday ( workday, profile, personal, documents)
 - print new i20: request a new one.. https://mystatus.globallearning.cornell.edu/istart/controllers/client/ClientEngine.cfm?serviceid=EFormI20DS2019ReprintRequest0ServiceProvider
-- FOR OPT: https://international.globallearning.cornell.edu/travel/travel-opt  
+- FOR OPT: https://international.globallearning.cornell.edu/travel/travel-opt
+
+Cornell 24/7 Travel Assistance: https://global.cornell.edu/travel/planning/247-travel-assistance 
