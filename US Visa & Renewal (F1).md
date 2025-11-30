@@ -19,3 +19,8 @@ Documents to take:
 - FOR OPT: https://international.globallearning.cornell.edu/travel/travel-opt
 
 Cornell 24/7 Travel Assistance: https://global.cornell.edu/travel/planning/247-travel-assistance 
+
+
+
+
+Rastriya Parichaya Patra: https://citizenportal.donidcr.gov.np/en/check-nid-card-status 
