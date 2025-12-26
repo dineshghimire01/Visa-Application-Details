@@ -24,3 +24,4 @@ Cornell 24/7 Travel Assistance: https://global.cornell.edu/travel/planning/247-t
 
 
 Rastriya Parichaya Patra: https://citizenportal.donidcr.gov.np/en/check-nid-card-status 
+NID card Nepal: https://enrollment.donidcr.gov.np/PreEnrollment/ 
