@@ -25,3 +25,11 @@ Cornell 24/7 Travel Assistance: https://global.cornell.edu/travel/planning/247-t
 
 Rastriya Parichaya Patra: https://citizenportal.donidcr.gov.np/en/check-nid-card-status 
 NID card Nepal: https://enrollment.donidcr.gov.np/PreEnrollment/ 
+ - print after submitting form and getting appointment (Durbargmarg NID for many provinces including Lumbini). This print has a QR code at the bottom right.
+ - Take that printed copy and original citizenship to the office on the day of appointment. The appointment is for 1 hour, try to reach 10 mintues before (doesn't matter as long as you are reach within appointment slot).
+ - Photo and biometrics will be taken. Then you will get a document with a NIN number and a card later on. That number alone is enough for other administrative processes like passport renewal ... 
+
+
+ Passport renewal: 
+ - https://emrtds.nepalpassport.gov.np/request-service
+ - 
