@@ -32,4 +32,8 @@ NID card Nepal: https://enrollment.donidcr.gov.np/PreEnrollment/
 
  Passport renewal: 
  - https://emrtds.nepalpassport.gov.np/request-service
- - 
+ -  appointment slots are open after 5 PM everyday for nextday.
+ -  book a slot (date of next day and time slot) and then fill up the form with details from Nagarikta, NID, previous passport, and basic information.
+ -  Print the form after completion. Note reference ID.
+ -  Pay amount using esewa, connectips, khalti and so on and then download payment voucher. 
+ -  Then take completed form and  the payment voucher to the Department of Passport, Tripureshwar along with original citizenship, and previous passport. 
