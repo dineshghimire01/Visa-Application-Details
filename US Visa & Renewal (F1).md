@@ -36,4 +36,6 @@ NID card Nepal: https://enrollment.donidcr.gov.np/PreEnrollment/
  -  book a slot (date of next day and time slot) and then fill up the form with details from Nagarikta, NID, previous passport, and basic information.
  -  Print the form after completion. Note reference ID.
  -  Pay amount using esewa, connectips, khalti and so on and then download payment voucher. 
- -  Then take completed form and  the payment voucher to the Department of Passport, Tripureshwar along with original citizenship, and previous passport. 
+ -  Then take completed form and  the payment voucher to the Department of Passport, Tripureshwar along with original citizenship, and previous passport.
+ -  There is always a huge line for passport and appointment slot timing doesn't matter so reach as soon as possible and get in the line (gate opens at 11 but I heard people start as early as 4 AM).
+ -  Good luck
