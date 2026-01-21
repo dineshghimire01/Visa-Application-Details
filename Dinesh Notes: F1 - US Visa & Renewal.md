@@ -8,7 +8,9 @@
 - Save the application form to take to the interview day.
 - Pay fee after making an account in CGI federal
 - US Visa scheduling: https://www.ustraveldocs.com/in/en/
-- Wizard to chat: https://fuse-cgi.telerion.net/widget?n=5dc39e78-f88c-41a7-8b20-efb58df70c0d&a=0000#login 
+- Wizard to chat: https://fuse-cgi.telerion.net/widget?n=5dc39e78-f88c-41a7-8b20-efb58df70c0d&a=0000#login
+- Schedule appointment and print it. There is listing of what documents are needed to take for the interview including i-20, appointment confirmation page, passport ( valid expiry), 2*2 passport photo, recent trancript/marksheet, sevis confirmation (if available, can download anytime).
+- For renew, its relatively easier to get visa approved. 
 
 
 Documents to take:
@@ -45,6 +47,18 @@ NID card Nepal: https://enrollment.donidcr.gov.np/PreEnrollment/
 
 
 Interview questions for renewing:
+
+Questions I was asked:
+- Is this for renew? - Yes
+- Have you maintained student visa during your stay? - Yes
+- Do you have future funding? I said yes and I had made a document from Univiersity/department confirming my funding so I would recommed making one (though didn't ask for it)
+- Tell me about your research?
+- Then I was asked to pass my email address on a paper so that they can ask me social media links later on.
+
+- That's all...
+  
+
+General Questions:
 
 - Q1: Why are you returning to the United States?
  - I am returning to continue my PhD research and complete my degree. I have about three years remaining to finish my project and graduate.
