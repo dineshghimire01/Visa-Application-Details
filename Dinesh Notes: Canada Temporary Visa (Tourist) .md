@@ -79,3 +79,9 @@
 Meanwhile you will receive multiple emails about the status of your passport. FEDEX will deliver at your palce. You have to sign it and recieve it. 
 
 ## That's all. Enjoy your visit
+
+
+
+
+# Renewing
+- https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html 
