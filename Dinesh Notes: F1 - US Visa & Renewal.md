@@ -7,7 +7,7 @@
 
 - Save the application form to take to the interview day.
 - Pay fee after making an account in CGI federal
-- US Visa scheduling: https://www.ustraveldocs.com/in/en/
+- US Visa scheduling: https://www.ustraveldocs.com/nep/en/
 - Wizard to chat: https://fuse-cgi.telerion.net/widget?n=5dc39e78-f88c-41a7-8b20-efb58df70c0d&a=0000#login
 - Schedule appointment and print it. There is listing of what documents are needed to take for the interview including i-20, appointment confirmation page, passport ( valid expiry), 2*2 passport photo, recent trancript/marksheet, sevis confirmation (if available, can download anytime).
 - For renew, its relatively easier to get visa approved. 
